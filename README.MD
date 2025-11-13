@@ -6,6 +6,10 @@
 - If there's anything you think should be included here, you can submit an issue and I'll check it out.
 
 # Series of Courses
+- https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/
+- http://robotacademy.net.au
+- https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/
+
 
 - [♥️ Robot Academy][series1], Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
