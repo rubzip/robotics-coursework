@@ -1,3 +1,5 @@
+https://github.com/RoseCityRobotics/robotics-resources?tab=readme-ov-file
+
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) 
 
 - If you want to use Arduino or Raspberry Pi to make robots, [this](./PROTOTYPING.md) short list might be helpful.
