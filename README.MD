@@ -7,6 +7,7 @@
 
 # Series of Courses
 - https://modernrobotics.northwestern.edu/nu-gm-book-resource/
+- https://motion.cs.illinois.edu/RoboticSystems/InverseKinematics.html
 - https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/
 - http://robotacademy.net.au
 - https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/
