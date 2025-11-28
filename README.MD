@@ -6,6 +6,7 @@
 - If there's anything you think should be included here, you can submit an issue and I'll check it out.
 
 # Series of Courses
+- https://pab47.github.io/robotics/robotics25.html
 - https://modernrobotics.northwestern.edu/nu-gm-book-resource/
 - https://motion.cs.illinois.edu/RoboticSystems/InverseKinematics.html
 - https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/
