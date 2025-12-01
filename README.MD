@@ -1,3 +1,11 @@
+# Cursos Interesantes
+
+- [[University of Illinois] - Full Course - 3D Robotics with Python (and Mujoco)](https://pab47.github.io/robotics/robotics25.html)
+- [[Queensland University of Technology] - Video Compilation - Robot Academy](http://robotacademy.net.au) 
+- [[Northwestern University] - Book - Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/)
+- [[University of Illinois] - Book - Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)
+- [[The Construct] - Moodle - ROS2 Courses](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/)
+
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) 
 
 - If you want to use Arduino or Raspberry Pi to make robots, [this](./PROTOTYPING.md) short list might be helpful.
