@@ -5,6 +5,8 @@
 - [[Northwestern University] - Book - Modern Robotics](https://modernrobotics.northwestern.edu/nu-gm-book-resource/)
 - [[University of Illinois] - Book - Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)
 - [[The Construct] - Moodle - ROS2 Courses](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/)
+- [[MIT] - Full Course - Underactuated Robotics](https://underactuated.mit.edu/index.html)
+- [[MIT] - Vudeos - Underactuated Robotics](https://www.youtube.com/@underactuated5171/featured)
 
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) 
 
